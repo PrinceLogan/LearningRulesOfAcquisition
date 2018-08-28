@@ -1,0 +1,19 @@
+body {
+margin: 0;
+padding: 0;
+font-family: "Press Start 2P";
+background-color: #21a262;
+}
+
+#header {
+width:auto;
+height:250px;
+margin-left:auto;
+margin-right:auto;
+background-position:center;
+background-repeat:no-repeat;
+overflow:hidden;
+position: relative;
+bottom: 100px;
+max-height: 250px;
+}
